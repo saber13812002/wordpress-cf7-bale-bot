@@ -93,3 +93,6 @@ Setting Page Sample:
 1. api link : https://apitest.bale.ai/v1/bots/http/
 2. token : o324ui5y2o3i4yu5io32u4yi5o2y34o5y2u3y4o5u32y45ouiy2
 3. admin bot ids: 34534534,3453453,2342342
+
+
+یک روبات بله روبات سروش روبات ایتا روبات تلگرام که فرم7 تماس رو فرم تماس7 رو وصل میکنه به روبات
